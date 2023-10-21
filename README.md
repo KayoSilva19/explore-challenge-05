@@ -1,8 +1,8 @@
-<img src="/assets/Projeto05.png"/>
+<img src="/assets/projeto-05.png"/>
 
 ## Responsive layout:
 
-<img src="/assets/Projeto05-mobile.png"/>
+<img src="/assets/projeto-05-mobile.png"/>
 
 > Status: Completed ✅
 
@@ -18,4 +18,4 @@
 </table>
 
 ## Project link running:
-<a target="_blank" href="https://explore-challenge-04.vercel.app/">Project Link</a>
+<a target="_blank" href="https://explore-challenge-05.vercel.app/">Project Link</a>
